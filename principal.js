@@ -1,0 +1,1 @@
+setInterval(cargarBanner, 1000);
